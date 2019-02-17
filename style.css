@@ -1,14 +1,8 @@
-body {
-    background: lightblue;
-  }
-  .skyblue {
-    background: deepskyblue;
-  } 
 .navbar {
     background: hsl(0, 0%, 100%);
     font-size: 20px;
     padding-left: 100px;
-    padding-right: 100px; 
+    padding-right: 100px;
 }
 
 .navbar-brand {
@@ -21,7 +15,7 @@ body {
 .navbar li a {
     display: block;
     /*color: rgb(172, 172, 172);*/
-    color: grey;
+    color: white;
 }
 .button {
     background: rgb(15, 168, 168);    
